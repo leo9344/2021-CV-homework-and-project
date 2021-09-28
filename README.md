@@ -58,7 +58,7 @@ Step 3: 重建原图:
 
 ## 一张图解释 LapLacian Pyramid 的产生过程
 
-![Laplacian Pyramid](/media/leo/Data/paper/CVhomework/code/2021-CV-homework-and-project/hw1_Image_Blending/data/Laplacian_pyramid.jpg)
+![Laplacian Pyramid](./hw1_Image_Blending/data/Laplacian_pyramid.jpg)
 
 最下面的这个灰色的就是LapLacian Pyramid各层的图片了
 
@@ -74,7 +74,7 @@ Step 3: 重建原图:
 
 默认的`mask1`和 `level ` 分别为
 
-![mask1](/media/leo/Data/paper/CVhomework/code/2021-CV-homework-and-project/hw1_Image_Blending/data/mask.jpg)
+![mask1](./hw1_Image_Blending/data/mask.jpg)
 
 背景是白色的可能看不太出来，左半边是白色，右半边是黑色
 
@@ -84,11 +84,11 @@ Step 3: 重建原图:
 
 左边是`Image1`   中间是`Image2`  右边是融合结果`Blended Img`
 
-![res](/media/leo/Data/paper/CVhomework/code/2021-CV-homework-and-project/hw1_Image_Blending/data/level=10_result.jpg)
+![res](/./hw1_Image_Blending/data/level=10_result.jpg)
 
 关闭这个对话框之后 会显示出重建的过程
 
-![reconstruct](/media/leo/Data/paper/CVhomework/code/2021-CV-homework-and-project/hw1_Image_Blending/data/Reconstruct_pyramid.jpg)
+![reconstruct](./hw1_Image_Blending/data/Reconstruct_pyramid.jpg)
 
 关闭这个对话框之后，程序结束
 
